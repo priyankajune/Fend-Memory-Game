@@ -9,9 +9,9 @@
 
 ## Star-Rating
 
-The star rating is based on the number of moves player makes !
-3-stars for moves < 15
-2-stars for moves < 24
+The star rating is based on the number of moves player makes !\
+3-stars for moves < 15\
+2-stars for moves < 24\
 1 star for the rest
 
 ## Acknowledgements
