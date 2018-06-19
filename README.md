@@ -17,12 +17,12 @@ The star rating is based on the number of moves player makes !
 ## Acknowledgements
 
 General Idea of implementation taken from :
-[Codepen](https://codepen.io/Meghh/pen/QmXPVK)
+[Codepen](https://codepen.io/Meghh/pen/QmXPVK) |
 [Youtube](https://www.youtube.com/watch?v=c_ohDPWmsM0)
 
 ## Dependencies
 
-[Font Awesome](https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css)
-[Sweet Alert css](https://cdn.jsdelivr.net/sweetalert2/3.0.3/sweetalert2.min.css)
-[Sweet Alert js](https://cdn.jsdelivr.net/sweetalert2/3.0.3/sweetalert2.min.js)
+[Font Awesome](https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css) |
+[Sweet Alert css](https://cdn.jsdelivr.net/sweetalert2/3.0.3/sweetalert2.min.css) |
+[Sweet Alert js](https://cdn.jsdelivr.net/sweetalert2/3.0.3/sweetalert2.min.js) |
 [Font-Family Coda](https://fonts.googleapis.com/css?family=Coda)
